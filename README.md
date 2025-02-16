@@ -6,4 +6,4 @@
 - **Programming Languages:** C, C++, Python
 - **Networking:** TCP/IP, UDP, Unix Domain Sockets
 - **Operating Systems:** Linux, Windows
-- **Tools & Platforms:** Git, Docker, Kubernetes, SQL, Redis
+- **Tools & Platforms:** Git, SQL
