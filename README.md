@@ -1,9 +1,8 @@
-## 🚀 Ahmet ÇİĞİLOĞLU | Software Engineer & System Developer
+## 🚀 Ahmet ÇİĞİLOĞLU | Software Engineer & Backend Developer
 
-Hi there! I'm a software developer specializing in system programming, network applications, and backend development. 
+Hi there! I'm a software engineer specializing in backend developing. 
 
  Tech Stack:
-- **Programming Languages:** C, C++, C#, JAVA
-- **Networking:** TCP/IP, UDP, Unix Domain Sockets
+- **Programming Languages:**  C#
 - **Tools & Platforms:** Git, SQL
-- **Frameworks:** .NET, SpringBoot
+- **Frameworks:** .NET
